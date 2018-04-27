@@ -1,24 +1,8 @@
-# README
+# rails_api_tasks
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A basic rails api for a simple tasks app. This is intended to be consumed by a separate React app.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Ruby 2.5.0
+* Rails 5.2.0
+* Postgres
+* JSON-API formatting with `gem 'jsonapi-rails'`

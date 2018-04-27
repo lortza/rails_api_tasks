@@ -28,6 +28,8 @@ gem 'bootsnap', '>= 1.1.0', require: false
 # Use Rack CORS for handling Cross-Origin Resource Sharing (CORS), making cross-origin AJAX possible
 # gem 'rack-cors'
 
+# gem 'seed_dump' # call with rake db:seed:dump
+
 gem 'pry-rails'
 gem 'pry-awesome_print'
 gem 'better_errors' #creates console in browser for errors

@@ -6,3 +6,4 @@ A basic rails api for a simple tasks app. This is intended to be consumed by a s
 * Rails 5.2.0
 * Postgres
 * JSON-API formatting with `gem 'jsonapi-rails'`
+* Runs on port 4517 (localhost:4517)

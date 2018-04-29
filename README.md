@@ -1,6 +1,6 @@
-# rails_api_tasks
+# Rails Tasks API
 
-A Rails API with ipsum users and task data. This is intended to be run locally and consumed by a separate React app for practice interacting with the two platforms.
+A Rails API with ipsum `user` and `task` data. This is intended to be run locally and consumed by a separate React app for practice interacting with the two platforms.
 
 * Ruby 2.5.0
 * Rails 5.2.0

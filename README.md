@@ -1,6 +1,6 @@
 # rails_api_tasks
 
-A Rails API with ipsum users and task data. This is intended to be consumed by a separate React app.
+A Rails API with ipsum users and task data. This is intended to be run locally and consumed by a separate React app for practice interacting with the two platforms.
 
 * Ruby 2.5.0
 * Rails 5.2.0
@@ -8,6 +8,9 @@ A Rails API with ipsum users and task data. This is intended to be consumed by a
 * JSON-API formatting with `gem 'jsonapi-rails'`
 * Runs on port 4517 (localhost:4517)
 
+## Getting Started
+
+- Be sure to run `rake db:seed` when setting up.
 
 ## Data Output
 
